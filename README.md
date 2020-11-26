@@ -1,16 +1,16 @@
 # Welcome to my personal Website
 <ul class="nav justify-content-center">
   <li class="nav-item">
-    <a class="nav-link active" href="#">Active</a>
+    <a class="nav-link active" href="#">HomePage</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">About Me</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">https://seanthompsonou.github.io/HomeWork-6/Project</a>
+    <a class="nav-link" href="#">My Projects</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+    <a class="nav-link" href="#">My Skills</a>
   </li>
 </ul>
 
