@@ -7,7 +7,7 @@
     <a class="nav-link" href="#">About Me</a>
   </li>
   <li class="nav-item">
-    <a class="https://seanthompsonou.github.io/HomeWork-6/Project" href="#">My Projects</a>
+    <a class="nav-link" href="https://seanthompsonou.github.io/HomeWork-6/Project">My Projects</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#">My Skills</a>
