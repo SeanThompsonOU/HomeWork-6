@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to my personal Website
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">https://seanthompsonou.github.io/HomeWork-6/Project</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
 
 You can use the [editor on GitHub](https://github.com/SeanThompsonOU/HomeWork-6/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
