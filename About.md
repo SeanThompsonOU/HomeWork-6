@@ -20,4 +20,4 @@
            <li>Engaged in efforts to raise money for local food pantry, including community outreach and organizing effective campaign communications.<li/>
           <u/>
             <div/>
- May 2018 - December 2020 (MISSA) Management Information Systems Student Association
+
