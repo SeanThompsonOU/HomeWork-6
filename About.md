@@ -16,7 +16,8 @@
   <div>
    <h3> Community Involvement<h3/>
    August 2016 - December 2017 Feeding America
+          <ul>
            Engaged in efforts to raise money for local food pantry, including community outreach and organizing effective campaign communications.
-     
+          <u/>
    May 2018 - December 2020 (MISSA) Management Information Systems Student Association
   <div/>
