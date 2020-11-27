@@ -1,6 +1,6 @@
 <ul class="nav justify-content-center">
   <li class="nav-item">
-    <a class="nav-link active" href="Index">HomePage</a>
+    <a class="nav-link active" href="index">HomePage</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="About">About Me</a>
