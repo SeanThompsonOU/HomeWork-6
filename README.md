@@ -1,4 +1,4 @@
-# Welcome to my personal Website
+ <h1>Welcome to my personal Website<h1/>
 <ul class="nav justify-content-center">
   <li class="nav-item">
     <a class="nav-link active" href="#">HomePage</a>
@@ -13,7 +13,7 @@
     <a class="nav-link" href="Skills">My Skills</a>
   </li>
 </ul>
-### Purpose
+<h3>Purpose<h3/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -37,12 +37,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Me
+<h1>Me<h1/>
 
 <img src="https://i.imgur.com/wtUeB81.jpg"> 
 <p>This is me after the University of Oklahomas in-person career in September of 2019!<p/>
 
-### Introduction
+<h3>Introduction<h3/>
 
 <p>
 Hello, my name is Sean Thompson, and welcome to my Personal Website. I believe it’s an ideal platform for showcasing the progression through my time at the University of Oklahoma and allows me to showcase my capabilities to those who may be eager to evaluate me.
