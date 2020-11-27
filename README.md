@@ -1,7 +1,7 @@
  <h1>Welcome to my personal Website<h1/>
 <ul class="nav justify-content-center">
   <li class="nav-item">
-    <a class="nav-link active" href="#">HomePage</a>
+    <a class="nav-link active" href="#">Home Page</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="About">About Me</a>
