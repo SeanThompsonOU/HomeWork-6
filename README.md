@@ -39,7 +39,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeanThompsonOU/HomeWork-6/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://imgur.com/a/baZMfXm" alt="This is me after the University of Oklahomas in-person career in September of 2019!">
 
 ### Introduction
 
