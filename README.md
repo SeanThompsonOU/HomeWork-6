@@ -20,7 +20,7 @@ The Purpose of this website is for me to display my IT functionality and skillse
 <h1>Me<h1/>
 
 <img src="https://i.imgur.com/wtUeB81.jpg"> 
-<p>This is me after the University of Oklahomas in-person career in September of 2019!<p/>
+<p>This is me after the University of Oklahomas in-person career fair in September of 2019!<p/>
 
 <h3>Introduction<h3/>
 
