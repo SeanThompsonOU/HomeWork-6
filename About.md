@@ -13,7 +13,7 @@
   </li>
 </ul>
 <h1>About Page<h1/>
-<h3> Community Incolcement<h3/>
+<h3> Community Involvement<h3/>
   <p>
     August 2016 - December 2017 Feeding America 
     <ul>
