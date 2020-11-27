@@ -15,27 +15,7 @@
 </ul>
 <h3>Purpose<h3/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Purpose of this webiste is for me to display my IT functionality and skillset to possible future employors or anyone I may want to show these skills to one day. Creating this website will act as my personal online resume to distribute to possible employors I may want to work for one day.
 
 <h1>Me<h1/>
 
