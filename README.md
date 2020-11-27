@@ -39,7 +39,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Me
 
-<img>src="https://i.imgur.com/wtUeB81.jpg"<img/> alt="This is me after the University of Oklahomas in-person career in September of 2019!">
+<imgsrc="https://i.imgur.com/wtUeB81.jpg"> alt="This is me after the University of Oklahomas in-person career in September of 2019!">
 
 ### Introduction
 
