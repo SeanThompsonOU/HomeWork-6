@@ -21,5 +21,5 @@
           <?ul>
             </div>
             <div>
-               May 2018 - December 2020 (MISSA) Management Information Systems Student Association
+               <b>May 2018 - December 2020 (MISSA) Management Information Systems Student Association</b>
             </div>
