@@ -13,3 +13,26 @@
   </li>
 </ul>
 <h1>Skills Page<h1/>
+
+<h2>My Skills</h2>
+  <h3>Programming languages</h3>
+<ul>
+  <li>HTML</li>
+  <li>C#</li>
+  <li>SQL</li>
+  <li>VBA</li>
+</ul>
+<h3>hard Skills</h3>
+<ul>
+  <li>Bachelor's degree in MIS</li>
+  <li>Database Management</li>
+  <li>Data Analytics</li>
+  <li>Project Management</li>
+</ul>
+<h3>Soft Skills</h3>
+<ul>
+  <li>Time Management</li>
+  <li>Creative Thinker</li>
+  <li>Takes Responsability</li>
+  <li>Team Spirit</li>
+</ul>
