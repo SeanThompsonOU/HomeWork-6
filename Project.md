@@ -13,7 +13,7 @@
   </li>
 </ul>
 <h1>Project Page<h1/>
-<div="GitHubRepo">
-  <h1>GitHub Reposotory<h1>
-    <p>By following the link here, you will be able to find my GitHub reposotory while I attended the University of Oklahoma<p>
+<div="Midterm">
+  <h1>Senior Midterm Project<h1>
+    <p>By following the link to <a href="https://github.com/MIS-3033/midterm-project-SeanThompsonOU">my Midterm Reposotory</a>, you will be able to find my midterm project reposotory that I completed my senior year!<p>
     </div>
