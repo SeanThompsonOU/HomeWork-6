@@ -15,7 +15,7 @@
 </ul>
 <h3>Purpose<h3/>
 
-The Purpose of this webiste is for me to display my IT functionality and skillset to possible future employors or anyone I may want to show these skills to one day. Creating this website will act as my personal online resume to distribute to possible employors I may want to work for one day.
+The Purpose of this website is for me to display my IT functionality and skillset to possible future employors or anyone I may want to show these skills to one day. Creating this website will act as my personal online resume to distribute to possible employors I may want to work for one day.
 
 <h1>Me<h1/>
 
